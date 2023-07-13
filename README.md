@@ -11,6 +11,7 @@
   - Run command: `crontab -e` to open cron screen.
   - Type: `*/1 * * * * /bin/bash /*dir_install*/cloudflare-sync-dns-ipv4/run.sh` means automatically run dns sync every 1 minute.
 
+
 [TIẾNG VIỆT]
 * Cái tên repo nói lên tất cả!
 
